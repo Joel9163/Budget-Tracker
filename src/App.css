@@ -1,6 +1,7 @@
   body {
     background-color: #ece8e8;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    scroll-behavior: smooth;
   }
   
   h3 {
