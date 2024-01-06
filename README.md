@@ -1,4 +1,2 @@
 # Budget Tracker
-To run install npm and run npm start
-
-
+An app that allows you to track your spending effectively.
